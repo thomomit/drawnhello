@@ -1,6 +1,8 @@
 # Drawn Hello
 [DEMO](https://thomomit.github.io/heymoon/build/)
 ![Shoot](drawnhelloshot.png)
+![Shoot](drawnhelloshot2.png)
+![Shoot](drawnhelloshot3.png)
 
 ## Usage
 
